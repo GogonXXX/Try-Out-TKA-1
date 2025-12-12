@@ -102,16 +102,16 @@ let swRegistration = null;
 
 async function loadSoalJSON() {
   try {
-    const res = await fetch('/Try-Out-TKA/soal.json');
+    const res = await fetch('soal.json');
     if (!res.ok) throw new Error('Gagal memuat soal.json');
     const data = await res.json();
     questions = data;
     console.log("Soal JSON berhasil dimuat:", data);
-    render(); // tampilkan versi awal
+    render(); 
   } catch (err) {
     console.error(err);
     alert("Gagal memuat soal.json, menggunakan soal default.");
-    questions = defaultQuestions; // fallback
+    questions = defaultQuestions;
     render();
   }
 }
