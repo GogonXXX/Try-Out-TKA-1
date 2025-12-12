@@ -1,7 +1,8 @@
 {
-  "name": "ASAS SDN YANTI — ExamBrowser Web",
-  "short_name": "ASAS Exam",
-  "start_url": "/exam/exam_browser_web.html",
+  "name": "Try Out TKA",
+  "short_name": "TKA",
+  "start_url": "/Try-Out-TKA/",
+  "scope": "/Try-Out-TKA/",
   "display": "standalone",
   "background_color": "#0e639c",
   "theme_color": "#0e639c",
