@@ -106,16 +106,34 @@ let swRegistration = null;
 
 async function loadSoalJSON() {
   try {
-    const res = await fetch('soal.json');
-    if (!res.ok) throw new Error('Gagal memuat soal.json');
+    // Ganti dengan URL GitHub Pages Anda yang sebenarnya
+    const repoName = 'Try-Out-TKA'; // sesuaikan dengan nama repo
+    const username = 'GogonXXX'; // sesuaikan dengan username GitHub
+    
+    // Pilih salah satu opsi di bawah:
+    
+    // Opsi A: Jika menggunakan GitHub Pages dari branch main/docs
+    const res = await fetch(`https://${username}.github.io/${repoName}/soal.json`);
+    
+    // Opsi B: Jika menggunakan custom domain
+    // const res = await fetch('https://domain-anda.com/soal.json');
+    
+    // Opsi C: Path relatif untuk semua environment (coba jika A/B tidak work)
+    // const baseUrl = window.location.origin + window.location.pathname.replace(/\/[^\/]*$/, '');
+    // const res = await fetch(`${baseUrl}/soal.json`);
+    
+    if (!res.ok) throw new Error(`Gagal memuat soal.json. Status: ${res.status}`);
     const data = await res.json();
     questions = data;
-    console.log("Soal JSON berhasil dimuat:", data);
-    render(); 
+    console.log("Soal JSON berhasil dimuat dari:", res.url);
+    render();
   } catch (err) {
-    console.error(err);
+    console.error("Error loading soal.json:", err);
     alert("Gagal memuat soal.json, menggunakan soal default.");
     questions = defaultQuestions;
+    render();
+  }
+}
     render();
   }
 }
