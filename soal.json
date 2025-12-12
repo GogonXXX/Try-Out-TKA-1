@@ -1,0 +1,380 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Bagian tubuh manusia yang berfungsi sebagai penyangga tubuh dan tempat melekatnya otot adalah ...",
+      "choices": ["Otot", "Sendi", "Rangka", "Tulang rawan"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Tulang yang termasuk dalam kelompok tulang anggota gerak atas adalah ...",
+      "choices": ["Tulang paha", "Tulang betis", "Tulang hasta", "Tulang kering"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Sendi yang memungkinkan gerakan ke segala arah terdapat pada ...",
+      "choices": ["Lutut", "Siku", "Pinggul", "Pergelangan tangan"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Otot yang bekerja tanpa disadari dan terdapat pada organ dalam disebut otot ...",
+      "choices": ["Lurik", "Jantung", "Polos", "Rangka"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Hubungan antara tulang yang memungkinkan sedikit gerakan seperti pada tulang rusuk adalah sendi ...",
+      "choices": ["Peluru", "Engsel", "Pelana", "Kaku"],
+      "answer": 3,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Apabila seseorang mengangkat beban berat, otot yang mengalami kontraksi adalah otot ...",
+      "choices": ["Bisep", "Trisep", "Jantung", "Polos"],
+      "answer": 0,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C2"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Perhatikan pernyataan berikut:\n1. Melindungi organ dalam\n2. Tempat pembentukan sel darah\n3. Alat gerak aktif\n4. Memberi bentuk tubuh\nFungsi rangka ditunjukkan oleh nomor ...",
+      "choices": ["1, 2, dan 3", "1, 2, dan 4", "2, 3, dan 4", "1, 3, dan 4"],
+      "answer": 1,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C2"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Kelainan tulang belakang yang membengkok ke samping disebut ...",
+      "choices": ["Kifosis", "Lordosis", "Skoliosis", "Osteoporosis"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Berikut ini yang merupakan contoh kerja sama antara otot dan rangka adalah ...",
+      "choices": ["Jantung berdetak memompa darah", "Usus mencerna makanan", "Lengan mengangkat buku", "Paru-paru bernapas"],
+      "answer": 2,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C2"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Apabila otot trisep berkontraksi, maka otot bisep akan ...",
+      "choices": ["Berkontraksi juga", "Berelaksasi", "Tetap diam", "Mengalami kram"],
+      "answer": 1,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C2"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Bangsa Eropa yang pertama kali datang ke Indonesia untuk mencari rempah-rempah adalah ...",
+      "choices": ["Portugis", "Spanyol", "Belanda", "Inggris"],
+      "answer": 0,
+      "score": 1,
+      "materi": "kedatangan bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "q": "Perang Diponegoro terjadi pada tahun 1825-1830 melawan penjajah ...",
+      "choices": ["Portugis", "Spanyol", "Belanda", "Jepang"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "q": "Tuanku Imam Bonjol memimpin Perang Padri melawan Belanda di daerah ...",
+      "choices": ["Jawa", "Sumatera Barat", "Sulawesi", "Maluku"],
+      "answer": 1,
+      "score": 1,
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "q": "Organisasi Budi Utomo didirikan pada tahun 1908 dengan tujuan utama ...",
+      "choices": ["Mempersiapkan kemerdekaan", "Memajukan pendidikan", "Melawan penjajah secara fisik", "Memperbaiki ekonomi"],
+      "answer": 1,
+      "score": 1,
+      "materi": "pergerakan nasional",
+      "kognitif": "C1"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "q": "Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal ...",
+      "choices": ["16 Agustus 1945", "17 Agustus 1945", "18 Agustus 1945", "19 Agustus 1945"],
+      "answer": 1,
+      "score": 1,
+      "materi": "pergerakan nasional",
+      "kognitif": "C1"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "q": "Benua terbesar di dunia adalah ...",
+      "choices": ["Afrika", "Amerika", "Asia", "Eropa"],
+      "answer": 2,
+      "score": 1,
+      "materi": "enam benua",
+      "kognitif": "C1"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "q": "Perhatikan benua-benua berikut:\n1. Asia\n2. Australia\n3. Eropa\n4. Antartika\nBenua yang seluruhnya berada di belahan bumi selatan adalah ...",
+      "choices": ["1 dan 2", "2 dan 3", "2 dan 4", "3 dan 4"],
+      "answer": 2,
+      "score": 1,
+      "materi": "enam benua",
+      "kognitif": "C2"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "q": "Jika seseorang mengalami patah tulang, proses penyembuhan akan melibatkan pembentukan jaringan tulang baru oleh sel-sel khusus. Proses ini menunjukkan salah satu fungsi tulang yaitu ...",
+      "choices": ["Alat gerak pasif", "Tempat melekatnya otot", "Penyimpan mineral", "Regenerasi dan perbaikan"],
+      "answer": 3,
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C3"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "q": "Perang Diponegoro dikenal sebagai perang yang sangat menyulitkan Belanda karena menggunakan strategi perang gerilya. Hal ini menunjukkan bahwa Pangeran Diponegoro ...",
+      "choices": ["Memiliki pasukan yang besar", "Menguasai teknologi senjata", "Memahami medan pertempuran", "Bekerja sama dengan penjajah lain"],
+      "answer": 2,
+      "score": 1,
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C3"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "q": "Berdasarkan peta dunia, benua Afrika dan Eropa dipisahkan oleh Laut Mediterania, sedangkan benua Asia dan Afrika dihubungkan oleh Terusan Suez. Hal ini menunjukkan bahwa ...",
+      "choices": ["Benua-benua selalu terpisah oleh laut", "Batas benua dapat berubah oleh manusia", "Setiap benua memiliki iklim berbeda", "Benua Asia adalah benua terluas"],
+      "answer": 1,
+      "score": 1,
+      "materi": "enam benua",
+      "kognitif": "C3"
+    },
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "q": "Bagian rangka manusia yang melindungi organ penting seperti jantung dan paru-paru adalah ...",
+      "answer": "tulang rusuk",
+      "acceptable_answers": ["tulang rusuk", "rusuk", "tulang dada dan rusuk", "thorax"],
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank",
+      "q": "Otot yang menempel pada tulang dan bekerja di bawah kesadaran kita disebut otot ...",
+      "answer": "lurik",
+      "acceptable_answers": ["lurik", "rangka", "serat lintang", "otot lurik"],
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank",
+      "q": "Hubungan antar tulang yang memungkinkan terjadinya gerakan disebut ...",
+      "answer": "sendi",
+      "acceptable_answers": ["sendi", "articulatio", "persendian", "sendi tulang"],
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 24,
+      "type": "fill_blank",
+      "q": "Tulang tengkorak termasuk dalam kelompok tulang ... karena bentuknya pipih dan melindungi organ dalam.",
+      "answer": "pipih",
+      "acceptable_answers": ["pipih", "flat", "tulang pipih", "flat bone"],
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 25,
+      "type": "fill_blank",
+      "q": "Jepang menjajah Indonesia selama ... tahun sebelum Indonesia merdeka.",
+      "answer": "tiga setengah",
+      "acceptable_answers": ["tiga setengah", "3,5", "3½", "tiga setengah tahun"],
+      "score": 1,
+      "materi": "kedatangan bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 26,
+      "type": "fill_blank",
+      "q": "Perang Diponegoro juga dikenal dengan nama ... karena banyaknya korban jiwa di kedua belah pihak.",
+      "answer": "Perang Jawa",
+      "acceptable_answers": ["Perang Jawa", "Java War", "Perang Diponegoro", "Perang Jawa 1825-1830"],
+      "score": 1,
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 27,
+      "type": "fill_blank",
+      "q": "Budi Utomo didirikan oleh pelajar STOVIA yang dipelopori oleh ...",
+      "answer": "dr. Wahidin Sudirohusodo",
+      "acceptable_answers": ["dr. Wahidin Sudirohusodo", "Wahidin Sudirohusodo", "Dokter Wahidin", "Wahidin"],
+      "score": 1,
+      "materi": "pergerakan nasional",
+      "kognitif": "C1"
+    },
+    {
+      "id": 28,
+      "type": "fill_blank",
+      "q": "Benua yang dikenal sebagai 'benua hitam' adalah benua ...",
+      "answer": "Afrika",
+      "acceptable_answers": ["Afrika", "Africa", "benua Afrika"],
+      "score": 1,
+      "materi": "enam benua",
+      "kognitif": "C1"
+    },
+    {
+      "id": 29,
+      "type": "fill_blank",
+      "q": "Ketika otot bisep berkontraksi untuk mengangkat lengan bawah, maka otot trisep akan mengalami ...",
+      "answer": "relaksasi",
+      "acceptable_answers": ["relaksasi", "berelaksasi", "mengendur", "istirahat"],
+      "score": 1,
+      "materi": "alat gerak manusia",
+      "kognitif": "C2"
+    },
+    {
+      "id": 30,
+      "type": "fill_blank",
+      "q": "Perang Padri yang dipimpin Tuanku Imam Bonjol awalnya merupakan konflik internal antara kaum adat dan kaum agama, tetapi kemudian berubah menjadi perang melawan ...",
+      "answer": "Belanda",
+      "acceptable_answers": ["Belanda", "penjajah Belanda", "kolonial Belanda", "VOC"],
+      "score": 1,
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C2"
+    },
+    {
+      "id": 31,
+      "type": "essay",
+      "q": "Sebutkan 3 fungsi rangka manusia!",
+      "maxScore": 5,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          { "group": "fungsi_rangka", "words": ["penyangga tubuh", "melindungi organ", "tempat otot", "pembentuk tubuh", "pembuat sel darah"], "weight": 1.0 }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "alat gerak manusia",
+      "kognitif": "C1"
+    },
+    {
+      "id": 32,
+      "type": "essay",
+      "q": "Sebutkan 4 bangsa asing yang pernah datang ke Indonesia!",
+      "maxScore": 5,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          { "group": "bangsa_asing", "words": ["Portugis", "Spanyol", "Belanda", "Inggris", "Jepang"], "weight": 1.0 }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "kedatangan bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 33,
+      "type": "essay",
+      "q": "Sebutkan 5 nama benua di dunia!",
+      "maxScore": 5,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          { "group": "benua", "words": ["Asia", "Afrika", "Amerika", "Eropa", "Australia", "Antartika"], "weight": 1.0 }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "enam benua",
+      "kognitif": "C1"
+    },
+    {
+      "id": 34,
+      "type": "essay",
+      "q": "Siapa yang memimpin Perang Diponegoro dan melawan bangsa mana?",
+      "maxScore": 5,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          { "group": "pemimpin", "words": ["Pangeran Diponegoro", "Diponegoro"], "weight": 0.5 },
+          { "group": "lawan", "words": ["Belanda", "penjajah Belanda"], "weight": 0.5 }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "perlawanan terhadap bangsa asing",
+      "kognitif": "C1"
+    },
+    {
+      "id": 35,
+      "type": "essay",
+      "q": "Pada tanggal berapa Proklamasi Kemerdekaan Indonesia dibacakan?",
+      "maxScore": 5,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          { "group": "tanggal", "words": ["17 Agustus 1945", "17-8-1945", "tujuh belas Agustus 1945"], "weight": 1.0 }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "pergerakan nasional",
+      "kognitif": "C1"
+    }
+  ]
+}
