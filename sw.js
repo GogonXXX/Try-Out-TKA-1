@@ -5,6 +5,9 @@ const urlsToCache = [
   './index.html',
   './soal.json',
   './manifest.json',
+  // Di manifest.json
+"start_url": "https://gogonxxx.github.io/Try-Out-TKA/",
+"scope": "https://gogonxxx.github.io/Try-Out-TKA/"
   // Icons akan ditambahkan jika ada
 ];
 
