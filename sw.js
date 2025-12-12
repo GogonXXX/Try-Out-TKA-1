@@ -8,4 +8,4 @@ self.addEventListener("activate", (event) => {
   return self.clients.claim();
 });
 
-self.addEventListener("fetch", () => {});
+self.addEventListener("fetch", ('soal.json') => {});
